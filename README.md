@@ -1,1 +1,3 @@
-# Black_Jack_Game
+# Black Jack
+
+Command line blackjack game written in python
